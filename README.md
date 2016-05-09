@@ -11,3 +11,6 @@ sudo ./sasaga.sh
 
 
 se generara una imagen ISO al final de la ccompilacion y ya pueden tener la base de un sistema linux minimalista, ¿listo para empezar armar el suyo completamente desde cero?
+
+
+pudes colaborar a que siga creando nuevas herramientas con una donacion en Paypal al correo ssanchezga@ufpso.edu.co
