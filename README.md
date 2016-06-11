@@ -17,7 +17,7 @@ pudes colaborar a que siga creando nuevas herramientas con una donacion en Paypa
 
 Breve galeria de su compilacion
 
-[Alt text](galeria/1.png "LinuxMinimal1")
+![Alt text](galeria/1.png "LinuxMinimal1")
 ![Alt text](galeria/2.png "LinuxMinimal2")
 ![Alt text](galeria/3.png "LinuxMinimal3")
 ![Alt text](galeria/4.png "LinuxMinimal4")
